@@ -1,0 +1,8 @@
+{
+    "name": "com.tlsharkey.transformplus",
+    "version": "0.0.1",
+    "displayName": "TransformPlus",
+    "description": "Class to add functionality to Unity's Transform class.",
+    "unity": "2019.3",
+    "dependencies": {}
+}
